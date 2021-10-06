@@ -34,7 +34,7 @@
 >
 > Delete comma on the right of last element
 
-- Create file named `secrets.py` and add your username/password in variables with the same name
+- Create file named `secrets.py` and add your username/password in variables with the same name.
 
 ### Disclaimer
 
