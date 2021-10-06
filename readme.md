@@ -20,7 +20,7 @@
   ``` 
   ##### Code snippet was from [here](https://timvisee.com/blog/list-export-your-subreddits/)
 
-- Copy the list of all the subreddits and users and paste in `generate_urls.py` on the subs list.
+- Copy the list of all the subreddits and users and paste it in `generate_urls.py` on the subs list.
 
 > #### Follow these steps to mass add elements to list:
 >
