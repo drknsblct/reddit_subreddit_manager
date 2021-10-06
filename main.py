@@ -1,6 +1,5 @@
-from random import randint
-
 import secrets
+from random import randint
 from selenium import webdriver
 from time import sleep
 from generate_urls import subs_with_urls
