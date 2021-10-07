@@ -18,7 +18,7 @@
   ```javascript
   javascript:$('body').replaceWith('<body>'+$('.subscription-box').find('li').find('a.title').map((_, d) => $(d).text()).get().join("<br>")+'</body>');javascript.void()
   ``` 
-  ##### Code snippet was from [here](https://timvisee.com/blog/list-export-your-subreddits/)
+  ##### Code snippet was from [here](https://timvisee.com/blog/list-export-your-subreddits/).
 
 - Copy the list of all the subreddits and users and paste it in `generate_urls.py` on the subs list.
 
