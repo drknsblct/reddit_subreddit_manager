@@ -1,7 +1,7 @@
 ## Requirements
 
 - Download the corresponding version of [ChromeDriver](https://chromedriver.chromium.org/downloads) that matches the
-  version of your Chrome browser.
+  version of your Chrome browser and add it to this folder.
 
 
 - Install requirements.txt (`pip install -r /path/to/requirements.txt`)
