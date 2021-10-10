@@ -8,7 +8,7 @@
 
 ## Before running the program
 
-- Log in to your reddit account by using any desktop browser of your choice.
+- Log in to your Reddit account by using any desktop browser of your choice. Log in to the account from which you want to transfer the subreddits!
 
 
 - Type or paste [reddit.com/subreddits](reddit.com/subreddits) on the address bar.
@@ -34,7 +34,7 @@
 >
 > Delete comma on the right of last element
 
-- Create file named `secrets.py` and add your username/password in variables with the same name. Use the reddit account you want to tranfer the subreddits!
+- Create file named `secrets.py` and add your username/password in variables with the same name. Use the Reddit account in which the subreddits will be transfered!
 
 ### Disclaimer
 
