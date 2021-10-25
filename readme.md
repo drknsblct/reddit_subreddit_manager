@@ -14,7 +14,7 @@
 - Type or paste [reddit.com/subreddits](reddit.com/subreddits) on the address bar.
 
 
-- Paste the following [snippet](https://timvisee.com/blog/list-export-your-subreddits/) on the address bar and press `Enter`:
+- Paste the following [snippet from Tim Visee](https://timvisee.com/blog/list-export-your-subreddits/) on the address bar and press `Enter`:
   ```javascript
   javascript:$('body').replaceWith('<body>'+$('.subscription-box').find('li').find('a.title').map((_, d) => $(d).text()).get().join("<br>")+'</body>');javascript.void()
   ``` 
