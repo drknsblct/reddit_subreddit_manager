@@ -11,7 +11,7 @@
 - Log in to your Reddit account by using any desktop browser of your choice. Log in to the account from which you want to transfer the subreddits!
 
 
-- Type or paste [reddit.com/subreddits](reddit.com/subreddits) on the address bar.
+- Type or paste [reddit.com/subreddits](https://www.reddit.com/subreddits) on the address bar.
 
 
 - Paste the following [snippet from Tim Visee](https://timvisee.com/blog/list-export-your-subreddits/) on the address bar and press `Enter`:
